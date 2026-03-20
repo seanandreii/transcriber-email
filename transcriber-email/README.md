@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open [https://transcriber-email.vercel.app/](http://localhost:3000) with your browser to see the result.
+Open [https://transcriber-email.vercel.app/](https://transcriber-email.vercel.app/) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
