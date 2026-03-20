@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-6">
+    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-6 text-gray-500">
       {/* Email Container */}
       <div className="w-full max-w-2xl bg-white shadow-xl rounded-2xl border border-gray-200">
 
